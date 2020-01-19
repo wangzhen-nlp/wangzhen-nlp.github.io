@@ -1,4 +1,4 @@
-## Zhen Wang (王臻）
+## Zhen Wang
 
 You can use the [editor on GitHub](https://github.com/wangzhen-nlp/wangzhen-nlp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
