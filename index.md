@@ -3,14 +3,13 @@
 
 | Degree | Department | University | Period |
 | ------------- | ------------- | ------------- | ------------- |
-| Master | Computer Science & Technology | Peking University | 2013\~2016 |
-| Bachelor | Computer Science & Technology | Peking University | 2009\~2013 |
+| Master & Bachelor | Computer Science & Technology | Peking University | 2009\~2016 |
 
 ### Experience
 
 | Organization | Period |
 | ------------- | ------------- |
-| Huawei's Noah Ark Lab | 2019\~Now |
+| Huawei Noah's Ark Lab | 2019\~Now |
 | Baidu Inc. | 2016\~2019 |
 
 ### Publications
