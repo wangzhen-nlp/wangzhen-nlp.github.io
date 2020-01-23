@@ -1,4 +1,8 @@
 ## Zhen Wang
+### Research Direction
+- Question Answering
+- Natural Language Generation
+
 ### Education
 | Master & Bachelor | Computer Science & Technology | Peking University | 2009\~2016 |
 | ------------- | ------------- | ------------- | ------------- |
