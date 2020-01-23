@@ -2,14 +2,17 @@
 ### Education
 | Master & Bachelor | Computer Science & Technology | Peking University | 2009\~2016 |
 | ------------- | ------------- | ------------- | ------------- |
+|||||
 
 ### Experience
 
 | Huawei Noah's Ark Lab | 2019\~Now |
 | ------------- | ------------- |
+|||
 
 | Baidu Inc. | 2016\~2019 |
 | ------------- | ------------- |
+|||
 
 ### Publications
 
