@@ -1,9 +1,7 @@
 ## Zhen Wang
 ### Education
-
-| Degree | Department | University | Period |
-| ------------- | ------------- | ------------- | ------------- |
 | Master & Bachelor | Computer Science & Technology | Peking University | 2009\~2016 |
+| ------------- | ------------- | ------------- | ------------- |
 
 ### Experience
 
