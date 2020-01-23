@@ -13,23 +13,9 @@
 
 ### Publications
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangzhen-nlp/wangzhen-nlp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension \[[paper](https://www.aclweb.org/anthology/P18-1159/)\]
+**Zhen Wang**, Jiachen Liu, Xinyan Xiao, Yajuan Lyu and Tian Wu. In ACL 2018
+- Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks \[[paper](https://www.aclweb.org/anthology/D15-1186/)\]
+**Zhen Wang**, Tingsong Jiang, Baobao Chang, Zhifang Sui. In EMNLP 2015
+- Distantly Supervised Neural Network Model for Relation Extraction \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-25816-4_21)\]
+**Zhen Wang**, Baobao Chang, and Zhifang Sui. In CCL 2015
