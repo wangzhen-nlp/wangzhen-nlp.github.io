@@ -3,11 +3,12 @@
 
 Master Degree   in Computer Science & Technology @ Peking University 2013\~2016
 Bachelor Degree in Computer Science & Technology @ Peking University 2009\~2013
-name | 价格 |  数量  
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 # Header 1
 ## Header 2
 ### Header 3
