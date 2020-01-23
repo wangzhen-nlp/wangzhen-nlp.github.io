@@ -1,15 +1,7 @@
-## Zhen Wang
+### Education
 
-You can use the [editor on GitHub](https://github.com/wangzhen-nlp/wangzhen-nlp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Master   in Computer Science & Technology @ Peking University 2013~2016
+Bachelor in Computer Science & Technology @ Peking University 2009~2013
 
 # Header 1
 ## Header 2
