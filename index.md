@@ -1,17 +1,19 @@
 ## Zhen Wang
 ### Education
 
-Master Degree   in Computer Science & Technology @ Peking University 2013\~2016
-Bachelor Degree in Computer Science & Technology @ Peking University 2009\~2013
+| Degree | Department | University | Period |
+| ------------- | ------------- | ------------- | ------------- |
+| Master | Computer Science & Technology | Peking University | 2013\~2016 |
+| Bachelor | Computer Science & Technology | Peking University | 2009\~2013 |
 
-| First Header  | Second Header |
+### Experience
+
+| Organization | Period |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Huawei's Noah Ark Lab | 2019\~Now |
+| Baidu Inc. | 2016\~2019 |
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
 - Bulleted
 - List
