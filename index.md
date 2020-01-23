@@ -1,7 +1,7 @@
 ### Education
 
-Master   in Computer Science & Technology @ Peking University 2013~2016
-Bachelor in Computer Science & Technology @ Peking University 2009~2013
+Master   in Computer Science & Technology @ Peking University 2013\~2016
+Bachelor in Computer Science & Technology @ Peking University 2009\~2013
 
 # Header 1
 ## Header 2
