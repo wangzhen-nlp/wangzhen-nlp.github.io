@@ -5,10 +5,11 @@
 
 ### Experience
 
-| Organization | Period |
-| ------------- | ------------- |
 | Huawei Noah's Ark Lab | 2019\~Now |
+| ------------- | ------------- |
+
 | Baidu Inc. | 2016\~2019 |
+| ------------- | ------------- |
 
 ### Publications
 
